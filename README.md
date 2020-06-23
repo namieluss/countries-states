@@ -1,12 +1,13 @@
 # Full Country and State list of our planet
 
 The repository contains a JSON file with a __complete list of the 250 countries__ of the world. Included with all states of every single country.
+__Note that any unicode string is transliterates into the closest possible representation in ascii text__.
 The format of the full list is like following:
 
 ```
 [
 	{
-		"code2": "AT",
+	    "code2": "AT",
 	    "code3": "AUT",
 	    "name": "Austria",
 	    "capital": "Vienna",
